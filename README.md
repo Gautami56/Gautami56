@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![](https://github.com/Gautami56/CRUD-student-opertion-angular11-node-mongo-fastify/blob/main/frontend/src/assets/readme_images/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13.gif)
 <img src="https://github-readme-stats.vercel.app/api?username=Gautami56&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=fffff&bg_color=ff0011"/>
